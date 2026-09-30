@@ -1,0 +1,23 @@
+# Raw sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Large assembly files
+*.fa
+*.fasta
+*.gfa
+*.bin
+
+# Analysis outputs
+logs/
+assemblies/
+read_QC/
+assembly_evaluation/
+hifiasm/
+LJA/
+
+# Other generated files
+*.jf
+*.zip
